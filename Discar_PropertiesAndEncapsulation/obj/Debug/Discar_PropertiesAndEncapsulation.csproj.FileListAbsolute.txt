@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\bin\Debug\Discar_PropertiesAndEncapsulation.exe.config
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\bin\Debug\Discar_PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\bin\Debug\Discar_PropertiesAndEncapsulation.pdb
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\obj\Debug\Discar_PropertiesAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\obj\Debug\Discar_PropertiesAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\obj\Debug\Discar_PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\Basic on Encapulation\Discar_PropertiesAndEncapsulation\obj\Debug\Discar_PropertiesAndEncapsulation.pdb
