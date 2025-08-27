@@ -32,6 +32,16 @@ namespace Discar_PropertiesAndEncapsulation
             Console.WriteLine("Shirt Brand:" + brand);
             Console.WriteLine("Shirt Size:" + size);
             Console.ReadKey();
+       public void GetUserInput()
+       {
+            Console.WriteLine("Hello there");
+            Console.WriteLine("Enter the brand of the shirt: ");
+            Brand = Console.ReadLine();// get the brand from user 
+
+           Console.WriteLine("Enter the size of the shirt: ");
+           Size = Console.ReadLine(); //get the size from user 
+           Console.ReadKey();
+       }
 
         }
     }
