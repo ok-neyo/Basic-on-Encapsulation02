@@ -17,12 +17,10 @@ namespace Discar_PropertiesAndEncapsulation
             //Instantiate a new Shirt Obj
             Shirt shirt1= new Shirt();
 
-            //set Shirt Bran
-            shirt1.Brand = "UA";
-            //set shirt size
-            shirt1.Size = "Large";
-            //Display shirt info
-            shirt1.DisplayInfo();
+           //Allow the user to input brand and size 
+           myshirt.GetUserInput();
+          //Display info entered by the user
+           myshirt.DisplayInfo();
 
 
         }
